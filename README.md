@@ -10,15 +10,15 @@ A curated list of awesome [Scratch](https://scratch.mit.edu) resources.
 
 ## Libraries
 
-- [Library 1](link)
-- [Library 2](link)
-- ...
+- [Scratchclient](https://github.com/cubeythecube/scratchclient) - A scratch API wrapper for Python.
+- [Meow.js](https://github.com/meow-js/meow-js) - A module to communicate with the scratch api.
+- [Meowclient](https://github.com/webdev03/meowclient) - Library to connect to the Scratch API.
+- [Scratchconnect](https://github.com/Sid72020123/scratchconnect) -  Python Library to connect Scratch API and much more.
+- [Scratchattach](https://github.com/TimMcCool/scratchattach/) -  Scratch API wrapper with support for almost all site features.
 
 ## Scripts
 
-- [Tool 1](link)
-- [Tool 2](link)
-- ...
+TODO
 
 ## Mods
 Mods are modifications to the Scratch editor. They may have a separate community system too.
