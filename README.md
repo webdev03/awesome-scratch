@@ -27,6 +27,7 @@ Mods are modifications to the Scratch editor. They may have a separate community
 - [PenguinMod](https://penguinmod.com/) - Block-based coding with tons of capabilities. Built off of Scratch and TurboWarp.
 - [E羊icques](https://sheeptester.github.io/scratch-gui/) - A Scratch mod with a custom aspect ratio that can load an extension from a URL.
 - [Gandi IDE](https://cocrea.world/gandi) - Code, Design and Create Games Together.
+- [ClipCC](https://codingclip.com/editor/stable/) - A Scratch mod with more extentions and great features.
 
 ## Contributing
 
